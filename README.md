@@ -17,7 +17,7 @@ The dataset includes:
 ## Installation
 Clone this repository:
    ```bash
-   git clone [<repository_url>](https://github.com/AngeloKiriakoulis/Default-Probability-Analysis.git)
+   git clone https://github.com/AngeloKiriakoulis/Default-Probability-Analysis.git
    ```
 
 ## Dependencies
